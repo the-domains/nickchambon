@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nick Chambon Music]]></title>
+        <description><![CDATA[Nick Chambon Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 21 Mar 2016 04:06:14 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lay Me Down ]]></title>
+            <description><![CDATA[<article><h1>Lay Me Down </h1><p>Lay Me Down Cover by Nick Chambon </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e536e0b-6722-4ef0-8074-455370bbe887.png"></article>]]></description>
+            <link>undefined083e4e6c-f728-4ca5-93c2-6aa0749be7bc/index.html</link>
+            <guid isPermaLink="false">083e4e6c-f728-4ca5-93c2-6aa0749be7bc</guid>
+            <pubDate>Mon, 21 Mar 2016 04:05:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
