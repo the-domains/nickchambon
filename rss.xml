@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Nick Chambon Music]]></title>
         <description><![CDATA[Nick Chambon Music]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nickchambon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 04:06:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 04:09:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nickchambon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lay Me Down ]]></title>
             <description><![CDATA[<article><h1>Lay Me Down </h1><p>Lay Me Down Cover by Nick Chambon </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4e536e0b-6722-4ef0-8074-455370bbe887.png"></article>]]></description>
-            <link>undefined083e4e6c-f728-4ca5-93c2-6aa0749be7bc/index.html</link>
+            <link>https://thegrid.ai/nickchambon/083e4e6c-f728-4ca5-93c2-6aa0749be7bc/index.html</link>
             <guid isPermaLink="false">083e4e6c-f728-4ca5-93c2-6aa0749be7bc</guid>
-            <pubDate>Mon, 21 Mar 2016 04:05:56 GMT</pubDate>
+            <pubDate>Mon, 21 Mar 2016 04:09:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
